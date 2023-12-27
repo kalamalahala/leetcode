@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        ".\\add_two_integers\\Cargo.toml"
+    ]
+}
