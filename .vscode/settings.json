@@ -3,5 +3,6 @@
         ".\\add_two_integers\\Cargo.toml",
         ".\\root_equals_sum\\Cargo.toml",
         ".\\running_sum_one_dimensional_array\\Cargo.toml",
+        ".\\richest_customer_wealth\\Cargo.toml",
     ]
 }
