@@ -1,5 +1,7 @@
 {
     "rust-analyzer.linkedProjects": [
-        ".\\add_two_integers\\Cargo.toml"
+        ".\\add_two_integers\\Cargo.toml",
+        ".\\root_equals_sum\\Cargo.toml",
+        ".\\running_sum_one_dimensional_array\\Cargo.toml",
     ]
 }
