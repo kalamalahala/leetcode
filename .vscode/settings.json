@@ -1,0 +1,16 @@
+{
+    "rust-analyzer.linkedProjects": [
+        ".\\add_two_integers\\Cargo.toml",
+        ".\\root_equals_sum\\Cargo.toml",
+        ".\\running_sum_one_dimensional_array\\Cargo.toml",
+        ".\\richest_customer_wealth\\Cargo.toml",
+        ".\\fizzbuzz\\Cargo.toml",
+        ".\\reduce_number_to_zero\\Cargo.toml",
+        ".\\middle_of_the_linked_list\\Cargo.toml",
+        ".\\ransom_note\\Cargo.toml",
+        ".\\redistribute_characters\\Cargo.toml",
+        ".\\minimum_number_ops_to_make_array_empty\\Cargo.toml",
+        ".\\valid_parentheses\\Cargo.toml",
+        ".\\length_of_last_word\\Cargo.toml",
+    ]
+}
