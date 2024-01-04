@@ -25,8 +25,6 @@ fn main() {
     obj.as_ref().unwrap().borrow_mut().left = Some(Rc::new(RefCell::new(TreeNode::new(2))));
     obj.as_ref().unwrap().borrow_mut().right = Some(Rc::new(RefCell::new(TreeNode::new(3))));
     check_tree(obj);
-
-    ()
 }
 
 fn check_tree(root: Option<Rc<RefCell<TreeNode>>>) -> bool {

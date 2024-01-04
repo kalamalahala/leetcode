@@ -8,5 +8,7 @@
         ".\\reduce_number_to_zero\\Cargo.toml",
         ".\\middle_of_the_linked_list\\Cargo.toml",
         ".\\ransom_note\\Cargo.toml",
+        ".\\redistribute_characters\\Cargo.toml",
+        ".\\minimum_number_ops_to_make_array_empty\\Cargo.toml",
     ]
 }
