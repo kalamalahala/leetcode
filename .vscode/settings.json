@@ -10,5 +10,6 @@
         ".\\ransom_note\\Cargo.toml",
         ".\\redistribute_characters\\Cargo.toml",
         ".\\minimum_number_ops_to_make_array_empty\\Cargo.toml",
+        ".\\valid_parentheses\\Cargo.toml",
     ]
 }
