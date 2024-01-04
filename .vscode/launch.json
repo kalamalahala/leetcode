@@ -11,7 +11,7 @@
             "cargo": {
                 "args": [
                     "build",
-                    "--manifest-path=length_of_last_word/Cargo.toml",
+                    "--manifest-path=palindrome_number/Cargo.toml",
                 ]
             },
             "args": []

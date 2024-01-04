@@ -12,5 +12,7 @@
         ".\\minimum_number_ops_to_make_array_empty\\Cargo.toml",
         ".\\valid_parentheses\\Cargo.toml",
         ".\\length_of_last_word\\Cargo.toml",
+        ".\\two_sum\\Cargo.toml",
+        ".\\palindrome_number\\Cargo.toml",
     ]
 }
