@@ -14,5 +14,7 @@
         ".\\length_of_last_word\\Cargo.toml",
         ".\\two_sum\\Cargo.toml",
         ".\\palindrome_number\\Cargo.toml",
+        ".\\longest_increasing_subsequence\\Cargo.toml",
+        ".\\maximum_profit_in_job_scheduling\\Cargo.toml"
     ]
 }

@@ -11,7 +11,7 @@
             "cargo": {
                 "args": [
                     "build",
-                    "--manifest-path=palindrome_number/Cargo.toml",
+                    "--manifest-path=maximum_profit_in_job_scheduling/Cargo.toml",
                 ]
             },
             "args": []
