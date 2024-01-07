@@ -17,5 +17,6 @@
         ".\\longest_increasing_subsequence\\Cargo.toml",
         ".\\maximum_profit_in_job_scheduling\\Cargo.toml",
         ".\\assign_cookies\\Cargo.toml",
+        ".\\arithmetic_slices_ii\\Cargo.toml",
     ]
 }

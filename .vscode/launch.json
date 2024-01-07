@@ -11,7 +11,7 @@
             "cargo": {
                 "args": [
                     "build",
-                    "--manifest-path=assign_cookies/Cargo.toml",
+                    "--manifest-path=arithmetic_slices_ii/Cargo.toml",
                 ]
             },
             "args": []
