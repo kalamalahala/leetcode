@@ -11,7 +11,7 @@
             "cargo": {
                 "args": [
                     "build",
-                    "--manifest-path=arithmetic_slices_ii/Cargo.toml",
+                    "--manifest-path=range_sum_of_bst/Cargo.toml",
                 ]
             },
             "args": []
