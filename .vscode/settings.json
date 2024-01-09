@@ -19,5 +19,6 @@
         ".\\assign_cookies\\Cargo.toml",
         ".\\arithmetic_slices_ii\\Cargo.toml",
         ".\\range_sum_of_bst\\Cargo.toml",
+        ".\\leaf_similar_trees\\Cargo.toml",
     ]
 }
