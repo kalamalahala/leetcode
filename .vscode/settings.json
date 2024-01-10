@@ -20,5 +20,6 @@
         ".\\arithmetic_slices_ii\\Cargo.toml",
         ".\\range_sum_of_bst\\Cargo.toml",
         ".\\leaf_similar_trees\\Cargo.toml",
+        ".\\amount_of_time_for_binary_tree_to_be_infected\\Cargo.toml",
     ]
 }

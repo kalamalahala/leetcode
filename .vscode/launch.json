@@ -11,7 +11,7 @@
             "cargo": {
                 "args": [
                     "build",
-                    "--manifest-path=range_sum_of_bst/Cargo.toml",
+                    "--manifest-path=amount_of_time_for_binary_tree_to_be_infected/Cargo.toml",
                 ]
             },
             "args": []
