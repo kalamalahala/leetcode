@@ -24,7 +24,7 @@ impl Solution {
     pub fn halves_are_alike(s: String) -> bool {
         let mut s = s.to_lowercase();
         let second_half = s.split_off(s.len() / 2);
-        let vowel_reference = vec!['a', 'e', 'i', 'o', 'u'];
+        let vowel_reference = ['a', 'e', 'i', 'o', 'u'];
         let mut first_half_vowel_count = 0;
         let mut second_half_vowel_count = 0;
 
