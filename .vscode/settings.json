@@ -24,5 +24,7 @@
         ".\\daily\\january\\maximum_distance_between_node_and_ancestor\\Cargo.toml",
         ".\\daily\\january\\determine_if_string_halves_are_alike\\Cargo.toml",
         ".\\daily\\january\\minimum_number_of_steps_to_make_two_strings_anagram\\Cargo.toml",
+        ".\\array\\find_k_closest_elements\\Cargo.toml",
+        ".\\daily\\january\\determine_if_two_strings_are_close\\Cargo.toml",
     ]
 }
