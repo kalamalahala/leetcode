@@ -26,7 +26,7 @@
         ".\\daily\\january\\minimum_number_of_steps_to_make_two_strings_anagram\\Cargo.toml",
         ".\\array\\find_k_closest_elements\\Cargo.toml",
         ".\\daily\\january\\determine_if_two_strings_are_close\\Cargo.toml",
-        ".\\top_onefifty\\array_string\\insert_delete_getrandom\\Cargo.toml",
+        ".\\daily\\january\\insert_delete_getrandom\\Cargo.toml",
         ".\\daily\\january\\find_players_with_zero_or_one_losses\\Cargo.toml",
     ]
 }
