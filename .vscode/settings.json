@@ -28,5 +28,6 @@
         ".\\daily\\january\\determine_if_two_strings_are_close\\Cargo.toml",
         ".\\daily\\january\\insert_delete_getrandom\\Cargo.toml",
         ".\\daily\\january\\find_players_with_zero_or_one_losses\\Cargo.toml",
+        ".\\daily\\january\\unique_number_of_occurrences\\Cargo.toml",
     ]
 }
