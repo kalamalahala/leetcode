@@ -30,5 +30,6 @@
         ".\\daily\\january\\find_players_with_zero_or_one_losses\\Cargo.toml",
         ".\\daily\\january\\unique_number_of_occurrences\\Cargo.toml",
         ".\\daily\\january\\climbing_stairs_again\\Cargo.toml",
+        ".\\daily\\january\\minimum_falling_path_sum\\Cargo.toml",
     ]
 }
