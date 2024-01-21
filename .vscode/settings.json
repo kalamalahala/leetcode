@@ -35,5 +35,6 @@
         ".\\array\\product_of_array_except_self\\Cargo.toml",
         ".\\array\\gas_station\\Cargo.toml",
         ".\\array\\house_robber\\Cargo.toml",
+        ".\\contests\\january\\p1\\Cargo.toml",
     ]
 }
