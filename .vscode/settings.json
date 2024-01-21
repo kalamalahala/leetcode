@@ -34,5 +34,6 @@
         ".\\hash_table\\insert_delete_getrandom_o1\\Cargo.toml",
         ".\\array\\product_of_array_except_self\\Cargo.toml",
         ".\\array\\gas_station\\Cargo.toml",
+        ".\\array\\house_robber\\Cargo.toml",
     ]
 }
